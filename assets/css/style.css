@@ -1,0 +1,16 @@
+
+
+.crystals {
+    justify-content: space-around;
+    align-items: center;
+    }
+
+
+.crystals {
+    border: 1px solid green;
+    height: 100px;
+    width: 150px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    transition: box-shadow 1s; transform: 2s;
+    }
